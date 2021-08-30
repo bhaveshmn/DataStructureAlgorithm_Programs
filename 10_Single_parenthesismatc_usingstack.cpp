@@ -32,11 +32,7 @@ class Parenthesis
             top--;
             return 0;
         }
-        
-        
-       
-        
-        
+         
     }
 };
 
@@ -79,9 +75,6 @@ int main() {
   }
   }
   
-  
-   
-   
 
     return 0;
 }
